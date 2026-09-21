@@ -19,3 +19,6 @@ A terminal-based Cashier System and Invoice Calculator designed to handle produc
 ## 🚀 How to Run
 ```bash
 python main.py
+
+
+  
