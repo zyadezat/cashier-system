@@ -1,3 +1,5 @@
+> 💻 **Looking for the source code?** [Explore the Repository files on GitHub](https://github.com/zyadezat/cashier-system)
+
 # 🛒 Interactive Cashier System
 
 A terminal-based Cashier System and Invoice Calculator designed to handle product input, compute total costs, and output clean receipts.
